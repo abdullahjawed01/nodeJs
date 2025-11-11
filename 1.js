@@ -90,7 +90,7 @@ Its the backbone of the modern web, connecting APIs, microservice, and tools.
 /*
 Summary Timeline
 
-year                      Event 
+year - Event 
 
 2009 - Ryan Dhal creates node.js
 2010 - npm (Node Package Manager) is launched
@@ -100,5 +100,5 @@ year                      Event
 2017+ -  Async/Await, ES modules, and major Imrpovements
 2020s - Node.js becomes a global standard for web servers
 
-
 */
+
